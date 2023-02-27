@@ -1,0 +1,5 @@
+# ninja log v5
+0	3442	1677528707252823834	/home/sunwoozy/projects/yolov5_obb/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-cpython-39/src/nms_rotated_cpu.o	97d0262579dfe132
+1	6945	1677528710752821270	/home/sunwoozy/projects/yolov5_obb/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-cpython-39/src/poly_nms_cuda.o	ea5118159f4e4228
+0	8617	1677528712432820744	/home/sunwoozy/projects/yolov5_obb/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-cpython-39/src/nms_rotated_ext.o	a5353204354df7c0
+0	8731	1677528712542820709	/home/sunwoozy/projects/yolov5_obb/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-cpython-39/src/nms_rotated_cuda.o	cb85e0f94eb16ffb
