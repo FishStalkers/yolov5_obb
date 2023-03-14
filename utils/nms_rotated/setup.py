@@ -22,7 +22,7 @@ def make_cuda_ext(name, module, sources, sources_cuda=[]):
         ]
         sources += sources_cuda
     else:
-        print(f'Compiling {name} without CUDA')
+        print('Compiling' + name + 'without CUDA')
         extension = CppExtension
         # raise EnvironmentError('CUDA is required to compile MMDetection!')
 
